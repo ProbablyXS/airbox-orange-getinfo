@@ -7,7 +7,9 @@ Converted XML TO JSON VALUE
 HOW TO USE IT : 
 
 Download .js file
+
 Install node js
+
 Execute .js with command : node airbox.js
 
 PREVIEW : 
