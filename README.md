@@ -4,8 +4,9 @@ A small program for displaying various information without accessing the adminis
 Using command fetch with node JS.
 Converted XML TO JSON VALUE
 
-scripts/xml.js
+**scripts/xml.js**
 
+```
 var get_request_valid_url = [
 	'api/wlan/liveboxmode',
 	'api/wlan/station-information',
@@ -62,7 +63,9 @@ var get_request_valid_url = [
 	'api/sms/splitinfo-sms',
 	'api/wlan/status-switch-settings'
 ];
+```
 
+```
 var post_request_valid_url = [
 	'api/user/login',
 	'api/sdcard/sdcard',
@@ -105,4 +108,5 @@ var post_request_valid_url = [
 	'api/online-update/autoupdate-config',
 	'api/monitoring/default-language-flag'
 ];
+```
 
