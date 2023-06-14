@@ -4,6 +4,13 @@ A small program for displaying various information without accessing the adminis
 Using command fetch with node JS.
 Converted XML TO JSON VALUE
 
+PREVIEW : 
+
+![airbox_cmyk_rose](https://github.com/ProbablyXS/airbox-orange-getinfo/assets/99107085/ac0bcc90-a449-4e6c-9830-4d0e4182209a)
+
+![airbox](https://github.com/ProbablyXS/airbox-orange-getinfo/assets/99107085/4782b794-e964-4c7a-8764-da0f4662eec3)
+
+
 **scripts/xml.js**
 
 ```
