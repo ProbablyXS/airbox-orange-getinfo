@@ -1,6 +1,8 @@
 # airbox-orange-getinfo
 A small program for displaying various information without accessing the administrator page
 
+Airbox 4G (E5573)
+
 Using command fetch with node JS.
 Converted XML TO JSON VALUE
 
